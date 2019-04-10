@@ -6,6 +6,7 @@ TagManager:
   tags:
   - DoorController
   - Enemy
+  - Ground
   layers:
   - Default
   - TransparentFX
